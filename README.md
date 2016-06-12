@@ -1,13 +1,13 @@
 # Gitlab-to-Github
 Utility to migrate all repositories from Gitlab to Github. 
 
-## Note:
+## Note
 * skip repository already present on Github
 * all repository are created as Private on Github
 * no repository will be deleted on Gitlab
 * a report of migration is returned at the end of process to check what's goes wrong
 
-## Requirements:
+## Requirements
 * gitlab credentials and token 
 * ssh keys shared on github
 * github user token
